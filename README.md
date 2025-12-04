@@ -50,16 +50,16 @@
 -----
 
 ## 🛠️ 스택
+<p>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
 
-\<p\>
-\<img src="[https://img.shields.io/badge/mariaDB-003545?style=for-the-badge\&logo=mariaDB\&logoColor=white](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)"\>
-\<img src="[https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)"\>
-\<img src="[https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)"\>
-\<img src="[https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)"\>
-\<img src="[https://img.shields.io/badge/github-181717?style=for-the-badge\&logo=github\&logoColor=white](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)"\>
-\<img src="[https://img.shields.io/badge/notion-000000?style=for-the-badge\&logo=notion\&logoColor=white](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)"\>
-\<img src="[https://img.shields.io/badge/discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)"\>
-\</p\>
 
 ### 팀명: dbdb
 
